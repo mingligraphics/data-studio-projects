@@ -1,6 +1,7 @@
 Global Gender Gap in Unpaid Work
 
 This repository contains data and Python code to support the findings reported in the Oct. 28, 2019 article "Women do More Unpaid Work than Men Globally"
+https://mingligraphics.github.io/portfolio/gender-gap-unpaid-work.html
 
 Data
 
